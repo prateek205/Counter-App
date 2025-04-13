@@ -1,3 +1,46 @@
+# 🔄️ Counter_Application_Project
+This is Counter web project in which we can Increment, Decrement and Reset the count by using `JavaScript` using `useState` Methodology as this is full responsive for small devices also and in this we build by HTML, CSS and Js Technology.
+
+## 💻 Technology Used
+- HTML.
+- CSS.
+- JavaScript.
+- React.Js
+
+## 🚀 Features
+- Easy to use.
+- Fully Responsive for small device.
+- clean user interface.
+
+## 📸 ScreenShot
+![Demo_ ScreenShot](https://github.com/prateek205/Counter-App/blob/96f89e56d14589215b9786908d5807d43cd97733/public/asset/image/counter_project.png)
+
+## 📽️ Demo
+Live Demo: https://counter-app-nine-chi-25.vercel.app/
+
+## 📦 Deployment
+- Vercel
+- Netlify
+- GitHub page
+
+## 📂 Folder Structure
+```
+├── Counter Project
+├── public/
+│   ├── asset/
+│   │   ├── image
+│   │   └── video
+│   └── index.html
+├── src/
+│   ├── Components
+│   ├── App.js
+│   └── Index.js
+├── .gitignore
+├── package-lock.json
+├── package.json
+└── README.md
+```
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
