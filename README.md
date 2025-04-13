@@ -40,7 +40,7 @@ Live Demo: https://counter-app-nine-chi-25.vercel.app/
 ├── package.json
 └── README.md
 ```
-## Example code(React.js)
+## 🧠 Example code(React.js)
 #### 1.Index.js
 ```
 import React from 'react';
