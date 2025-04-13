@@ -1,5 +1,5 @@
 # 🔄️ Counter_Application_Project
-This is Counter web project in which we can Increment, Decrement and Reset the count by using `JavaScript` using `useState` Methodology as this is full responsive for small devices also and in this we build by HTML, CSS and Js Technology.
+This is Counter web project in which we can Increment, Decrement and Reset the count by using `useState` Methodology as this is full responsive for small devices also and in this we build by HTML, CSS and Js Technology.
 
 ## 💻 Technology Used
 - HTML.
