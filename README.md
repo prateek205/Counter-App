@@ -20,7 +20,7 @@ This app allows users to increase, decrease, and reset a counter value, with sup
 - **JavaScript (Vanilla JS)** – Logic & DOM manipulation  
 
 ## 📺 Live Demo
-URL: 
+URL: https://counter-app-nu-five.vercel.app/ 
 
 ## 📂 Project Structure
 
