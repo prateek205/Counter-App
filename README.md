@@ -28,7 +28,9 @@ URL: https://counter-app-nu-five.vercel.app/
 .
 ├── Counter-App
 ├── .git
-├── index.js
+├── javaScript/
+│   ├── index.js
+│   └── theme.js
 ├── index.html
 ├── style.css
 └── README.md
